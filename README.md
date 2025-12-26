@@ -12,8 +12,6 @@ This project analyses divorce trends in South Africa using official data from St
 ## Tools Used
 - Python
 - pandas
-- NumPy
-- matplotlib
 - Power Bi
 - Excel
 
